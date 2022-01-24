@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Bijnor");
+  weather.fetchWeather("Najibabad");
