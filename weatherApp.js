@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Ghaziabad");
+  weather.fetchWeather("Najibabad");
